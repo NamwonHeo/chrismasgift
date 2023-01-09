@@ -96,7 +96,7 @@ export default function Home() {
         {loading && (
           <div>
             <h3>Looking for the best gift ideas 🎁 💡</h3>
-            <img src="/loading.webp" className={styles.loading} />
+            
           </div>
         )}
         <div
